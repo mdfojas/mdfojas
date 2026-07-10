@@ -7,7 +7,7 @@ from lxml import etree
 # ── Configuration ─────────────────────────────────────────────────────────────
 BIRTHDAY = datetime.datetime(2000, 10, 27, 0, 0)
 USER_NAME = os.environ['USER_NAME']
-HEADERS = {'authorization': 'token ' + os.environ['ACCESS_TOKEN']}
+HEADERS = {'authorization': 'token ' + os.environ['STATS_TOKEN']}
 GRAPHQL_URL = 'https://api.github.com/graphql'
 ACCOUNT_START_YEAR = 2021  # mdfojas joined GitHub March 2021
 
