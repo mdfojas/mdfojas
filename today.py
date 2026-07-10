@@ -94,6 +94,14 @@ def update_svg(path, age, repos, stars, commits, followers):
     set_text('commits_data', str(commits))
     set_text('followers_data', str(followers))
 
+    # Stats rows: | centered at position 28, each half = 26 chars, total = 55
+    # Left:  ". " + key + dots_tspan + value = 26
+    # Right: key + dots_tspan + value = 26
+    set_text('repos_dots',     ': ' + '.' * max(2, 16 - len(str(repos)))     + ' ')
+    set_text('stars_dots',     ': ' + '.' * max(2, 18 - len(str(stars)))     + ' ')
+    set_text('commits_dots',   ': ' + '.' * max(2, 14 - len(str(commits)))   + ' ')
+    set_text('followers_dots', ': ' + '.' * max(2, 14 - len(str(followers))) + ' ')
+
     tree.write(path, xml_declaration=True, encoding='UTF-8', pretty_print=False)
     print(f'  Updated {path}')
 
