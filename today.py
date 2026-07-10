@@ -84,10 +84,9 @@ def update_svg(path, age, repos, stars, commits, followers):
             matches[0].text = text
 
     # Adjust dot padding so the value column stays roughly aligned
-    base_dots = ': .................. '
-    excess = max(0, len(age) - len('25 years, 8 months, 14 days'))
-    dots = base_dots[:max(2, len(base_dots) - excess // 2)]
-    set_text('uptime_dots', dots)
+    # TARGET=55: ". Uptime: " + dots + " " + age = 55 => dots = 44 - len(age)
+    n_dots = max(3, 44 - len(age))
+    set_text('uptime_dots', ': ' + '.' * n_dots + ' ')
     set_text('uptime_data', age)
 
     set_text('repos_data', str(repos))
