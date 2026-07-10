@@ -64,7 +64,7 @@ text, tspan {white-space: pre;}
 <tspan x="390" y="410"> </tspan>
 <tspan x="390" y="430">GitHub Stats ─────────────────────────────────────────</tspan>
 <tspan x="390" y="450"><tspan class="cc">. </tspan><tspan class="key">Repos</tspan><tspan class="cc">: .... </tspan><tspan class="value" id="repos_data">21</tspan><tspan class="cc">  | </tspan><tspan class="key">Stars</tspan><tspan class="cc">: ............ </tspan><tspan class="value" id="stars_data">0</tspan></tspan>
-<tspan x="390" y="470"><tspan class="cc">. </tspan><tspan class="key">Commits</tspan><tspan class="cc">: .. </tspan><tspan class="value" id="commits_data">2306</tspan><tspan class="cc">  | </tspan><tspan class="key">Followers</tspan><tspan class="cc">: ....... </tspan><tspan class="value" id="followers_data">0</tspan></tspan>
+<tspan x="390" y="470"><tspan class="cc">. </tspan><tspan class="key">Commits</tspan><tspan class="cc">: .. </tspan><tspan class="value" id="commits_data">2307</tspan><tspan class="cc">  | </tspan><tspan class="key">Followers</tspan><tspan class="cc">: ....... </tspan><tspan class="value" id="followers_data">0</tspan></tspan>
 <tspan x="390" y="490"> </tspan>
 <tspan x="390" y="510"> </tspan>
 </text>
