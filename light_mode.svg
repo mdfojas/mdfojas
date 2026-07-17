@@ -44,7 +44,7 @@ text, tspan {white-space: pre;}
 <text x="390" y="30" fill="#24292e">
 <tspan x="390" y="30">mark@fojas ──────────────────────────────────────────────</tspan>
 <tspan x="390" y="50"><tspan class="cc">. </tspan><tspan class="key">OS</tspan><tspan class="cc">: ............................... </tspan><tspan class="value">macOS, Windows 10</tspan></tspan>
-<tspan x="390" y="70"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan><tspan class="cc" id="uptime_dots">: ................. </tspan><tspan class="value" id="uptime_data">25 years, 8 months, 19 days</tspan></tspan>
+<tspan x="390" y="70"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan><tspan class="cc" id="uptime_dots">: ................. </tspan><tspan class="value" id="uptime_data">25 years, 8 months, 20 days</tspan></tspan>
 <tspan x="390" y="90"><tspan class="cc">. </tspan><tspan class="key">Host</tspan><tspan class="cc">: .................................... </tspan><tspan class="value">SiteMinder</tspan></tspan>
 <tspan x="390" y="110"><tspan class="cc">. </tspan><tspan class="key">Kernel</tspan><tspan class="cc">: ........................... </tspan><tspan class="value">Software Engineer</tspan></tspan>
 <tspan x="390" y="130"><tspan class="cc">. </tspan><tspan class="key">IDE</tspan><tspan class="cc">: ........................................ </tspan><tspan class="value">VS Code</tspan></tspan>
@@ -64,7 +64,7 @@ text, tspan {white-space: pre;}
 <tspan x="390" y="410"> </tspan>
 <tspan x="390" y="430">GitHub Stats ─────────────────────────────────────────</tspan>
 <tspan x="390" y="450"><tspan class="cc">. </tspan><tspan class="key">Repos</tspan><tspan class="cc" id="repos_dots">: .............. </tspan><tspan class="value" id="repos_data">21</tspan><tspan class="cc"> | </tspan><tspan class="key">Stars</tspan><tspan class="cc" id="stars_dots">: ................. </tspan><tspan class="value" id="stars_data">0</tspan></tspan>
-<tspan x="390" y="470"><tspan class="cc">. </tspan><tspan class="key">Commits</tspan><tspan class="cc" id="commits_dots">: .......... </tspan><tspan class="value" id="commits_data">2325</tspan><tspan class="cc"> | </tspan><tspan class="key">Followers</tspan><tspan class="cc" id="followers_dots">: ............. </tspan><tspan class="value" id="followers_data">0</tspan></tspan>
+<tspan x="390" y="470"><tspan class="cc">. </tspan><tspan class="key">Commits</tspan><tspan class="cc" id="commits_dots">: .......... </tspan><tspan class="value" id="commits_data">2327</tspan><tspan class="cc"> | </tspan><tspan class="key">Followers</tspan><tspan class="cc" id="followers_dots">: ............. </tspan><tspan class="value" id="followers_data">0</tspan></tspan>
 <tspan x="390" y="490"> </tspan>
 <tspan x="390" y="510"> </tspan>
 </text>
