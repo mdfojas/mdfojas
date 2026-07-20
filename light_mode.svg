@@ -44,7 +44,7 @@ text, tspan {white-space: pre;}
 <text x="390" y="30" fill="#24292e">
 <tspan x="390" y="30">mark@fojas ──────────────────────────────────────────────</tspan>
 <tspan x="390" y="50"><tspan class="cc">. </tspan><tspan class="key">OS</tspan><tspan class="cc">: ............................... </tspan><tspan class="value">macOS, Windows 10</tspan></tspan>
-<tspan x="390" y="70"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan><tspan class="cc" id="uptime_dots">: ................. </tspan><tspan class="value" id="uptime_data">25 years, 8 months, 22 days</tspan></tspan>
+<tspan x="390" y="70"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan><tspan class="cc" id="uptime_dots">: ................. </tspan><tspan class="value" id="uptime_data">25 years, 8 months, 23 days</tspan></tspan>
 <tspan x="390" y="90"><tspan class="cc">. </tspan><tspan class="key">Host</tspan><tspan class="cc">: .................................... </tspan><tspan class="value">SiteMinder</tspan></tspan>
 <tspan x="390" y="110"><tspan class="cc">. </tspan><tspan class="key">Kernel</tspan><tspan class="cc">: ........................... </tspan><tspan class="value">Software Engineer</tspan></tspan>
 <tspan x="390" y="130"><tspan class="cc">. </tspan><tspan class="key">IDE</tspan><tspan class="cc">: ........................................ </tspan><tspan class="value">VS Code</tspan></tspan>
